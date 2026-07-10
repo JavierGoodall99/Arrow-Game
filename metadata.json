@@ -1,0 +1,8 @@
+{
+  "name": "2D Archery Game",
+  "description": "An elegant, physics-based side-view archery game featuring 10 dynamic levels, wind physics, moving targets, and customizable angle and power shot aiming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
